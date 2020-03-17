@@ -1,0 +1,294 @@
+﻿CDUI,Division,Income
+1001,Division No. 1,74676
+1002,Division No. 2,60912
+1003,Division No. 3,56224
+1004,Division No. 4,44282
+1005,Division No. 5,62565
+1006,Division No. 6,61250
+1007,Division No. 7,57183
+1008,Division No. 8,51687
+1009,Division No. 9,59858
+1010,Division No. 10,112768
+1011,Division No. 11,70315
+1101,Kings,57799
+1102,Queens,63770
+1103,Prince,58196
+1201,Shelburne,57462
+1202,Yarmouth,54006
+1203,Digby,47922
+1204,Queens,47548
+1205,Annapolis,48116
+1206,Lunenburg,54833
+1207,Kings,57776
+1208,Hants,65028
+1209,Halifax,69522
+1210,Colchester,55371
+1211,Cumberland,49883
+1212,Pictou,56067
+1213,Guysborough,49253
+1214,Antigonish,64558
+1215,Inverness,58432
+1216,Richmond,53099
+1217,Cape Breton,52914
+1218,Victoria,56794
+1301,Saint John,53387
+1302,Charlotte,55701
+1303,Sunbury,71512
+1304,Queens,48539
+1305,Kings,76290
+1306,Albert,66521
+1307,Westmorland,61904
+1308,Kent,54123
+1309,Northumberland,55223
+1310,York,65274
+1311,Carleton,55749
+1312,Victoria,49146
+1313,Madawaska,53146
+1314,Restigouche,49553
+1315,Gloucester,52793
+2401,Les Îles-de-la-Madeleine,61243
+2402,Le Rocher-Percé,47957
+2403,La Côte-de-Gaspé,57676
+2404,La Haute-Gaspésie,45046
+2405,Bonaventure,53346
+2406,Avignon,48370
+2407,La Matapédia,47488
+2408,Matane,47821
+2409,La Mitis,48996
+2410,Rimouski-Neigette,56835
+2411,Les Basques,44809
+2412,Rivière-du-Loup,55865
+2413,Témiscouata,49317
+2414,Kamouraska,54854
+2415,Charlevoix-Est,55727
+2416,Charlevoix,56806
+2417,L'Islet,52042
+2418,Montmagny,49649
+2419,Bellechasse,62039
+2420,L'Île-d'Orléans,77568
+2421,La Côte-de-Beaupré,71277
+2422,La Jacques-Cartier,90884
+2423,Québec,61175
+2425,Lévis,74101
+2426,La Nouvelle-Beauce,67947
+2427,Robert-Cliche,56640
+2428,Les Etchemins,50534
+2429,Beauce-Sartigan,55478
+2430,Le Granit,51422
+2431,Les Appalaches,48981
+2432,L'Érable,50716
+2433,Lotbinière,61017
+2434,Portneuf,60385
+2435,Mékinac,45266
+2436,Shawinigan,44556
+2437,Francheville,51335
+2438,Bécancour,54778
+2439,Arthabaska,53697
+2440,Les Sources,45595
+2441,Le Haut-Saint-François,52022
+2442,Le Val-Saint-François,60791
+2443,Sherbrooke,51706
+2444,Coaticook,54090
+2445,Memphrémagog,58045
+2446,Brome-Missisquoi,57802
+2447,La Haute-Yamaska,55259
+2448,Acton,51261
+2449,Drummond,52580
+2450,Nicolet-Yamaska,53093
+2451,Maskinongé,50546
+2452,D'Autray,55057
+2453,Pierre-De Saurel,52922
+2454,Les Maskoutains,55917
+2455,Rouville,65187
+2456,Le Haut-Richelieu,61778
+2457,La Vallée-du-Richelieu,84889
+2458,Longueuil,66932
+2459,Marguerite-D'Youville,84387
+2460,L'Assomption,74714
+2461,Joliette,53626
+2462,Matawinie,49542
+2463,Montcalm,58065
+2464,Les Moulins,78813
+2465,Laval,70216
+2466,Montréal,52519
+2467,Roussillon,78596
+2468,Les Jardins-de-Napierville,64332
+2469,Le Haut-Saint-Laurent,50777
+2470,Beauharnois-Salaberry,54509
+2471,Vaudreuil-Soulanges,78913
+2472,Deux-Montagnes,71086
+2473,Thérèse-De Blainville,77568
+2474,Mirabel,75895
+2475,La Rivière-du-Nord,59462
+2476,Argenteuil,50415
+2477,Les Pays-d'en-Haut,58800
+2478,Les Laurentides,50630
+2479,Antoine-Labelle,46928
+2480,Papineau,51196
+2481,Gatineau,68703
+2482,Les Collines-de-l'Outaouais,90482
+2483,La Vallée-de-la-Gatineau,46073
+2484,Pontiac,50567
+2485,Témiscamingue,55627
+2486,Rouyn-Noranda,62994
+2487,Abitibi-Ouest,57116
+2488,Abitibi,64064
+2489,La Vallée-de-l'Or,62540
+2490,La Tuque,51384
+2491,Le Domaine-du-Roy,54587
+2492,Maria-Chapdelaine,54479
+2493,Lac-Saint-Jean-Est,58076
+2494,Le Saguenay-et-son-Fjord,59268
+2495,La Haute-Côte-Nord,51760
+2496,Manicouagan,64034
+2497,Sept-Rivières--Caniapiscau,72600
+2498,Minganie--Le Golfe-du-Saint-Laurent,70042
+2499,Nord-du-Québec,82066
+3501,"Stormont, Dundas and Glengarry",59526
+3502,Prescott and Russell,78748
+3506,Ottawa,85981
+3507,Leeds and Grenville,68305
+3509,Lanark,71660
+3510,Frontenac,69432
+3511,Lennox and Addington,71725
+3512,Hastings,61109
+3513,Prince Edward,66140
+3514,Northumberland,70208
+3515,Peterborough,64437
+3516,Kawartha Lakes,67187
+3518,Durham,89835
+3519,York,95776
+3520,Toronto,65829
+3521,Peel,86233
+3522,Dufferin,89608
+3523,Wellington,81347
+3524,Halton,103010
+3525,Hamilton,69024
+3526,Niagara,65086
+3528,Haldimand-Norfolk,70686
+3529,Brant,68741
+3530,Waterloo,77530
+3531,Perth,70336
+3532,Oxford,72294
+3534,Elgin,66494
+3536,Chatham-Kent,58185
+3537,Essex,66658
+3538,Lambton,70022
+3539,Middlesex,64797
+3540,Huron,65944
+3541,Bruce,71193
+3542,Grey,62936
+3543,Simcoe,76489
+3544,Muskoka,67880
+3546,Haliburton,58125
+3547,Renfrew,67683
+3548,Nipissing,60303
+3549,Parry Sound,60251
+3551,Manitoulin,50227
+3552,Sudbury,65333
+3553,Greater Sudbury,71791
+3554,Timiskaming,59360
+3556,Cochrane,68349
+3557,Algoma,58664
+3558,Thunder Bay,68062
+3559,Rainy River,64320
+3560,Kenora,66198
+4601,Division No. 1,62660
+4602,Division No. 2,74504
+4603,Division No. 3,65475
+4604,Division No. 4,57088
+4605,Division No. 5,63147
+4606,Division No. 6,64055
+4607,Division No. 7,69374
+4608,Division No. 8,53996
+4609,Division No. 9,61336
+4610,Division No. 10,109483
+4611,Division No. 11,68552
+4612,Division No. 12,88558
+4613,Division No. 13,88680
+4614,Division No. 14,86932
+4615,Division No. 15,60298
+4616,Division No. 16,51272
+4617,Division No. 17,50775
+4618,Division No. 18,54491
+4619,Division No. 19,34944
+4620,Division No. 20,53691
+4621,Division No. 21,72028
+4622,Division No. 22,64061
+4623,Division No. 23,55219
+4701,Division No. 1,87916
+4702,Division No. 2,77118
+4703,Division No. 3,64805
+4704,Division No. 4,65139
+4705,Division No. 5,67694
+4706,Division No. 6,82590
+4707,Division No. 7,68729
+4708,Division No. 8,74155
+4709,Division No. 9,58747
+4710,Division No. 10,51328
+4711,Division No. 11,81913
+4712,Division No. 12,75429
+4713,Division No. 13,79227
+4714,Division No. 14,59103
+4715,Division No. 15,71463
+4716,Division No. 16,58225
+4717,Division No. 17,75633
+4718,Division No. 18,52685
+4801,Division No. 1,75141
+4802,Division No. 2,76397
+4803,Division No. 3,64806
+4804,Division No. 4,77728
+4805,Division No. 5,77312
+4806,Division No. 6,99388
+4807,Division No. 7,82031
+4808,Division No. 8,87260
+4809,Division No. 9,82399
+4810,Division No. 10,82575
+4811,Division No. 11,93913
+4812,Division No. 12,94409
+4813,Division No. 13,82013
+4814,Division No. 14,96569
+4815,Division No. 15,85760
+4816,Division No. 16,192979
+4817,Division No. 17,78462
+4818,Division No. 18,92416
+4819,Division No. 19,103172
+5901,East Kootenay,76850
+5903,Central Kootenay,55532
+5905,Kootenay Boundary,59721
+5907,Okanagan-Similkameen,57069
+5909,Fraser Valley,69290
+5915,Greater Vancouver,72662
+5917,Capital,69665
+5919,Cowichan Valley,65191
+5921,Nanaimo,62349
+5923,Alberni-Clayoquot,55278
+5924,Strathcona,62366
+5926,Comox Valley,63397
+5927,Powell River,53056
+5929,Sunshine Coast,60279
+5931,Squamish-Lillooet,78581
+5933,Thompson-Nicola,69308
+5935,Central Okanagan,71127
+5937,North Okanagan,63365
+5939,Columbia-Shuswap,64009
+5941,Cariboo,63638
+5943,Mount Waddington,58912
+5945,Central Coast,48000
+5947,Skeena-Queen Charlotte,64411
+5949,Kitimat-Stikine,71742
+5951,Bulkley-Nechako,76008
+5953,Fraser-Fort George,77676
+5955,Peace River,94002
+5957,Stikine,50816
+5959,Northern Rockies,89527
+6001,Yukon,84521
+6101,Region 1,81536
+6102,Region 2,105728
+6103,Region 3,84864
+6104,Region 4,75584
+6105,Region 5,104302
+6106,Region 6,141700
+6204,Baffin,104896
+6205,Keewatin,93294
+6208,Kitikmeot,77397
